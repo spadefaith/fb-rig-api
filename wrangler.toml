@@ -1,0 +1,7 @@
+name = "fb-rig-api"
+main = "src/index.ts"
+compatibility_date = "2023-04-16"
+
+kv_namespaces = [
+  { binding = "fbrig", id = "9db1ea2781a14eb181622d1a9c31b844", preview_id = "9db1ea2781a14eb181622d1a9c31b844" }
+]
